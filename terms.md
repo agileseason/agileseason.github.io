@@ -51,4 +51,4 @@ JavaScript, or visual design elements or concepts of the Service without
 express written permission from Agile Season.
 
 Questions about the Terms and Conditions may be directed to the email
-address support@agileseason.com
+address support@agileseason.com.
