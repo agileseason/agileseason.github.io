@@ -3,10 +3,22 @@
 
 @import "{{ site.theme }}";
 
+// -------------------------------
+// Header
+// -------------------------------
 .page-header {
   padding: 2rem 6rem;
 }
-
 .project-tagline {
   margin-bottom: 0.5rem;
+}
+
+// -------------------------------
+// Footer
+// -------------------------------
+.site-footer-links {
+  float: right;
+}
+.site-footer-links a {
+  margin-left: 1rem;
 }
