@@ -1,5 +1,7 @@
 ## Agile Season documentation
 
+Welcome to the [Agile Season](https://2.agileseason.com) documentation!
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
