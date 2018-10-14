@@ -6,7 +6,16 @@ Welcome to the [Agile Season](https://2.agileseason.com) documentation!
 
 ### Features
 
-- Protect your secrets
-- Many repositories in one view
-- Customizable workflow
-- Connected to GitHub in real-time
+#### Protect your secrets
+We won't be able to read or change your code,
+since we won't require any of these permissions from GitHub
+
+#### Many repositories in one view
+Connect any number of GitHub repositories to a single board
+
+#### Customizable workflow
+Add and remove columns to fit how your team works
+
+#### Connected to GitHub in real-time
+Agile Season connects directly to your GitHub issues,
+so there’s no duplicate work and you’re not jumping backand forth between tools
