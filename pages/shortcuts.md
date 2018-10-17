@@ -8,14 +8,7 @@
 | ----------------- | ---------------- |
 | `c` or `n`        | Create an issue  |
 
-#### Moving a column
-
-| Keyboard Shortcut   | Description      |
-| ------------------- | ---------------- |
-| `space`, `→`        | Focus your cursor on the column. Move column to the right. |
-| `space`, `←`        | Focus your cursor on the column. Move column to the left.  |
-
-#### Moving a card
+#### Moving an issue
 
 | Keyboard Shortcut   | Description      |
 | ------------------- | ---------------- |
@@ -23,3 +16,10 @@
 | `space`, `↓`        | Focus your cursor on the issue. Move issue down.  |
 | `space`, `→`        | Focus your cursor on the issue. Move issue to the column on the right.  |
 | `space`, `←`        | Focus your cursor on the issue. Move issue to the column on the left.   |
+
+#### Moving a column
+
+| Keyboard Shortcut   | Description      |
+| ------------------- | ---------------- |
+| `space`, `→`        | Focus your cursor on the column. Move column to the right. |
+| `space`, `←`        | Focus your cursor on the column. Move column to the left.  |
