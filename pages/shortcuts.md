@@ -10,12 +10,16 @@
 
 #### Moving a column
 
-| Keyboard Shortcut | Description      |
-| ----------------- | ---------------- |
-|                   |                  |
+| Keyboard Shortcut   | Description      |
+| ------------------- | ---------------- |
+| `space`, `→`        | Focus your cursor on the column. Move column to the right. |
+| `space`, `←`        | Focus your cursor on the column. Move column to the left.  |
 
 #### Moving a card
 
-| Keyboard Shortcut | Description      |
-| ----------------- | ---------------- |
-|                   |                  |
+| Keyboard Shortcut   | Description      |
+| ------------------- | ---------------- |
+| `space`, `↑`        | Focus your cursor on the issue. Move issue up.    |
+| `space`, `↓`        | Focus your cursor on the issue. Move issue down.  |
+| `space`, `→`        | Focus your cursor on the issue. Move issue to the column on the right.  |
+| `space`, `←`        | Focus your cursor on the issue. Move issue to the column on the left.   |
