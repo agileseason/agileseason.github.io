@@ -4,6 +4,8 @@ Welcome to the [Agile Season](https://2.agileseason.com) documentation!
 
 ### Getting started
 
+- [Keyboard Shortcuts](/pages/shortcuts)
+
 ### Features
 
 #### Protect your secrets
