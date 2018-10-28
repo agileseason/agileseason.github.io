@@ -2,4 +2,4 @@
 
 ## Issues Frequency
 
-![Example of Issues Frequency report](/assests/images/reports/issues-frequency.png)
+![Example of Issues Frequency report](/assets/images/reports/issues-frequency.png)
