@@ -21,3 +21,7 @@ Add and remove columns to fit how your team works
 #### Connected to GitHub in real-time
 Agile Season connects directly to your GitHub issues,
 so there’s no duplicate work and you’re not jumping backand forth between tools
+
+#### Reports
+
+- [Issues Frequency](/pages/reports/issues-frequency)
