@@ -26,3 +26,4 @@ so there’s no duplicate work and you’re not jumping backand forth between to
 #### Reports
 
 - [Issues Frequency](/pages/reports/issues-frequency)
+- [Time in Progress](/pages/reports/time-in-progress)
