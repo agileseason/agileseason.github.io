@@ -1,6 +1,6 @@
 ## Agile Season documentation
 
-Welcome to the [Agile Season](https://2.agileseason.com) documentation!
+Welcome to the [Agile Season](https://agileseason.com) documentation!
 
 ### Getting started
 
