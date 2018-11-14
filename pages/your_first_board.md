@@ -35,6 +35,8 @@ and select the repositories you want to connect to your board.
 
 ![New board](/assets/images/your_first_board/8.png)
 
+Now your board is ready :)
+
 ### Creating an issue
 
 Click **+** for any column.
