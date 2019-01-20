@@ -23,6 +23,11 @@ Add and remove columns to fit how your team works
 Agile Season connects directly to your GitHub issues,
 so there’s no duplicate work and you’re not jumping backand forth between tools
 
+#### Automation
+
+- [Auto-assign yourself](/pages/automation)
+- [Auto-close issue](/pages/automation)
+
 #### Reports
 
 - [Issues Frequency](/pages/reports/issues-frequency)
