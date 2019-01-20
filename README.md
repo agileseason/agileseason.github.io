@@ -28,6 +28,12 @@ so there’s no duplicate work and you’re not jumping backand forth between to
 - [Issues Frequency](/pages/reports/issues-frequency)
 - [Time in Progress](/pages/reports/time-in-progress)
 
+#### Referral program
+
+Give your friends **10% OFF** discount at Agile Season.
+You get rewarded with **50%** of friend's purchase
+amount (up to $50 per user).
+
 #### Feedback
 
 Please feel free to contact us with any questions or suggestions :)
